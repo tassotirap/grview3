@@ -2,5 +2,8 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Edit"/>
+	<classpathentry kind="lib" path="D:/GrView/Libs/swingx-1.6.jar"/>
+	<classpathentry kind="lib" path="D:/GrView/Libs/df_1.1.1/dock/bin/docking-frames-core.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

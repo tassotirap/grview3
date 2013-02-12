@@ -17,6 +17,9 @@ public class Launcher
 			Splash.getInstance().openSplash();			
 			Thread.sleep(1000);			
 			Splash.getInstance().finish();
+			
+			MainWindow mainWindow = new MainWindow();
+			mainWindow.setVisible(true);
 		}
 		catch (Exception e)
 		{
